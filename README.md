@@ -4,6 +4,6 @@ Olá! Neste repositório estou compartilhando os exercícios que estou fazendo d
 
 Espero que apreciem!
 
-Michel Nader &nbsp
-Santos/SP, Brasil &nbsp
+Michel Nader   
+Santos/SP, Brasil  
 Maio/2023
